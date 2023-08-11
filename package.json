@@ -1,0 +1,16 @@
+{
+  "name": "invasao-push-notification-service",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.1.13",
+    "onesignal-node": "^2.0.1",
+    "redis": "^2.8.0"
+  }
+}
